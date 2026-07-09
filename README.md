@@ -1,7 +1,5 @@
 # 旗標科技《Codex Vibe Coding 開發手冊》服務專區
 
-![](https://www.flag.com.tw/assets/img/bookpic/F6782.jpg)
-
 - [第 1 章 Codex 簡介、安裝與基本用法](ch01.md)
 - [第 2 章 使用 Codex 開發專案--設計剩餘用量顯示面板](ch02.md)
 - [第 3 章 在終端機使用 Codex CLI](ch03.md)
